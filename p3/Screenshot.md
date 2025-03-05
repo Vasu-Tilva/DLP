@@ -1,5 +1,5 @@
-### Implementation of a Lexical Analyzer for C Language Compiler
-# Input T1
+# Implementation of a Lexical Analyzer for C Language Compiler
+## Input T1
 int main(){
 int a=5,7H;
 //assign value
@@ -7,10 +7,10 @@ char b='x';
 /*return value*/
 return a+b;
 }
-# Output T1
+## Output T1
 ![image](https://github.com/user-attachments/assets/41524664-a167-41e6-b40e-b7ba33ef1d58)
 
-# Input T2
+## Input T2
 void main( )
 {
 long int bs , da , hra , gs;
@@ -27,10 +27,10 @@ printf("\nhra : %ld",hra);
 printf("\ngs : %ld",gs);
 }
 
-# Output T2
+## Output T2
 ![image](https://github.com/user-attachments/assets/e74ddb6e-a8c9-4764-b21b-1fa30f2f7668)
 
-# Input T3
+## Input T3
 // user defined data type
 struct student
 {
@@ -44,10 +44,10 @@ s.id = 10;
 s.cgpa = 8.7;
 }
 
-# Output T3
+## Output T3
 ![image](https://github.com/user-attachments/assets/af2a0b59-363f-45e1-b9e7-d86237fa218a)
 
-# Input T3
+## Input T3
 //function prototype
 void add ( int , int );
 void main( )
